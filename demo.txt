@@ -1,3 +1,5 @@
 Hello everyone!
 
 This is a demofile. I am adding some text to see if everything is working.
+
+This is the second text to verify that I can make and save changes along the way.
